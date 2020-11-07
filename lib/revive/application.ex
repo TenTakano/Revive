@@ -8,7 +8,7 @@ defmodule Revive.Application do
   def start(_type, _args) do
     children = [
       # Start the Ecto repository
-      Revive.Repo,
+      # Revive.Repo,
       # Start the Telemetry supervisor
       ReviveWeb.Telemetry,
       # Start the PubSub system
