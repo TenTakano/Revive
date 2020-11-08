@@ -1,5 +1,1 @@
-<section class="row">
-  <section class="column">
-    <div id="root"></div>
-  </section>
-</section>
+<div id="root"></div>
